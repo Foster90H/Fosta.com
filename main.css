@@ -1,0 +1,49 @@
+html {
+    font-size: 22px;
+
+.Home {
+    background-color: #e6b760;
+    padding: 30px 30px;
+    background: #e6b760;
+    border: 5px solid #f03d4c;
+    border-radius: 40px;
+    box-shadow: 0 0 10 #f03d4c;
+    font-size: 22px;
+    
+}
+
+.btn-sci {
+    display: inline-block;
+    padding: 30px 30px;
+    background: #e6b760;
+    border: 5px solid #f03d4c;
+    border-radius: 40px;
+    box-shadow: 0 0 10 #f03d4c;
+    font-size: 22px;
+    
+}
+
+.construction {
+    display: inline-block;
+    padding: 30px 30px;
+    background: #e6b760;
+    border: 5px solid #f03d4c;
+    border-radius: 40px;
+    box-shadow: 0 0 10 #f03d4c;
+    font-size: 22px;
+    
+}
+
+.hardware {
+    display: inline-block;
+    padding: 30px 30px;
+    background: #e6b760;
+    border: 5px solid #f03d4c;
+    border-radius: 40px;
+    box-shadow: 0 0 10 #f03d4c;
+    font-size: 22px;
+    
+}
+
+
+}
